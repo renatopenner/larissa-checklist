@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://checklist.larissanavesadvocacia.com.br/sitemap.xml
